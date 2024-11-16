@@ -1,0 +1,46 @@
+.saree-section{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.saree-section img{
+    min-width: 210px;
+}
+.fontfo{
+    font-family: "Montserrat", sans-serif;
+
+}
+.text-whi{
+    color: white;
+}
+.kolor{
+    background-color: #4C2B2F ;
+}
+.text-whi a {
+    color: white !important;
+}
+.text-whie{
+    color: white !important;
+}
+.ad-facebook-f{
+    /* background-color: white !important; */
+    color:white !important;
+}
+.ad-twitter{
+    color:white !important;
+}
+.ad-pinterest-p{
+    color:white !important;
+}
+.ad-linkedin-in{
+    color:white !important;
+}
+.ad-instagram{
+    color:white !important;
+}
+#Subscribe{
+    background: white;
+    color: black;
+}
